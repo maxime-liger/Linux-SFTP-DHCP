@@ -144,7 +144,7 @@ $ sudo ufw allow 22/tcp < Ouvre le port 22
 $ sudo ufw reload
 
 
-$ sudo ufw status < Voir si les règles sont active  ( Chat gpt ? ) 
+$ sudo ufw status < Voir si les règles sont active  
 
 A faire sur la machine cliente 
 
