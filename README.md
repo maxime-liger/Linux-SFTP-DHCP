@@ -36,9 +36,7 @@ $ nano /etc/dhcp/dhcpd.conf < configurer la plage d'adresse IP
    
    3. Et suprimée ( dhcp ) et écrire ( static ) a la place.
    
-   [ Etre en default switch pour que la carte eth soit UP. ( Hyper V ) ]
                                                                                                                       
-  
   $  nano /etc/default/isc-dhcp-server < définir l'interface
 
 ° Mettre l'interface comme cela ( INTERFACESv4="eth0" )
